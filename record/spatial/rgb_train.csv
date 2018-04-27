@@ -1,0 +1,2 @@
+Epoch,Batch Time,Data Time,Loss,Prec@1,Prec@5,lr
+0,0.996,0.463,1,57,79,0.0005
