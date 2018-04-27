@@ -8,4 +8,4 @@ You can download the UCF101 data from https://github.com/feichtenhofer/twostream
 
 I successfully tested it by installing PyTorch in Anaconda Python 3.6 Environment. Install the missing packages with pip and you should be good to go. Feel free to reach out if you face any issues configuring the environment
 
-NVIDIA Graphics card: GeFOrce GTX1060Ti 6 GB, occassionally had insuffuficient memory issues while execting the code
+NVIDIA Graphics card: GeForce GTX1060Ti 6 GB, occassionally had insuffuficient memory issues while execting the code
